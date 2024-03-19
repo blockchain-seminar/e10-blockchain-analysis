@@ -43,7 +43,7 @@ def get_nft_address(link):
 
     time.sleep(5)
 
-    contr_address = "//*[@id=\"__next\"]/div[1]/header/div[1]/div[1]/div[2]/div[2]/button[1]"
+    contr_address = "//*[@id=\"__next\"]/div[1]/header/div[1]/div[1]/div/div/button[1]"
     nft_name = "//*[@id=\"__next\"]/div[1]/header/div[1]/div[1]/div[2]/div[1]/div[2]/h1"
     driver.find_element(By.XPATH, contr_address).click() # address stored in clipbaord
     name = driver.find_element(By.XPATH, nft_name).text
