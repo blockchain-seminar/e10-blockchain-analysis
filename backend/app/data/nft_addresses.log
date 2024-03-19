@@ -1,0 +1,95 @@
+INFO:root:{'address': '0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d', 'nft': 'Bored Ape Yacht Club'}
+INFO:root:{'address': '0x60e4d786628fea6478f785a6d7e704777c86a7c6', 'nft': 'Mutant Ape Yacht Club'}
+INFO:root:{'address': '0xbd3531da5cf5857e7cfaa92426877b022e612cf8', 'nft': 'Pudgy Penguins'}
+INFO:root:{'address': '0x059edd72cd353df5106d2b9cc5ab83a52287ac3a', 'nft': 'Art Blocks'}
+INFO:root:{'address': '0x03b8d129a8f6dc62a797b59aa5eebb11ad63dada', 'nft': 'SMOWL'}
+INFO:root:{'address': '0x524cab2ec69124574082676e6f654a18df49a048', 'nft': 'Lil Pudgys'}
+INFO:root:{'address': '0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270', 'nft': 'Art Blocks V1'}
+INFO:root:{'address': '0x0fc3dd8c37880a297166bed57759974a157f0e74', 'nft': 'Parallel Avatars'}
+INFO:root:{'address': '0x5af0d9827e0c53e4799bb226655a1de152a425a5', 'nft': 'Milady Maker'}
+INFO:root:{'address': '0x5c1a0cc6dadf4d0fb31425461df35ba80fcbc110', 'nft': 'Pixels - Farm Land'}
+INFO:root:{'address': '0x0baeccd651cf4692a8790bcc4f606e79bf7a3b1c', 'nft': 'Peplicator by Matt Furie'}
+INFO:root:{'address': '0xd3d9ddd0cf0a5f0bfb8f7fceae075df687eaebab', 'nft': 'Redacted Remilio Babies'}
+INFO:root:{'address': '0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b', 'nft': 'CLONE X - X TAKASHI MURAKAMI'}
+INFO:root:{'address': '0x0581ddf7a136c6837429a46c6cb7b388a3e52971', 'nft': 'BlockGames Dice'}
+INFO:root:{'address': '0x32973908faee0bf825a343000fe412ebe56f802a', 'nft': 'Pixelmon - Generation 1'}
+INFO:root:{'address': '0x0000000000c26fabfe894d13233d5ec73f61cc72', 'nft': 'Asterix'}
+INFO:root:{'address': '0xfdf5acd92840e796955736b1bb9cc832740744ba', 'nft': 'OVERWORLD INCARNA'}
+INFO:root:{'address': '0x8821bee2ba0df28761afff119d66390d594cd280', 'nft': 'DeGods'}
+INFO:root:{'address': '0xed5af388653567af2f388e6224dc7c4b3241c544', 'nft': 'Azuki'}
+INFO:root:{'address': '0x09233d553058c2f42ba751c87816a8e9fae7ef10', 'nft': 'My Pet Hooligan'}
+INFO:root:{'address': '0x76603b2dc8e75fd3411935169ac30f6b3387b7a2', 'nft': 'CHuBBiT Official Collection'}
+INFO:root:{'address': '0x769272677fab02575e84945f03eca517acc544cc', 'nft': 'The Captainz'}
+INFO:root:{'address': '0x9cf0ab1cc434db83097b7e9c831a764481dec747', 'nft': 'alignDRAW'}
+INFO:root:{'address': '0x7042e1163074ee1184204e8e72200530f4507f1e', 'nft': 'Heurist Imaginaries'}
+INFO:root:{'address': '0xc143bbfcdbdbed6d454803804752a064a622c1f3', 'nft': 'Async Blueprints'}
+INFO:root:{'address': '0xacf63e56fd08970b43401492a02f6f38b6635c91', 'nft': 'Kanpai Pandas'}
+INFO:root:{'address': '0x364c828ee171616a39897688a831c2499ad972ec', 'nft': 'Sappy Seals'}
+INFO:root:{'address': '0x8a90cab2b38dba80c64b7734e58ee1db38b8992e', 'nft': 'Doodles'}
+INFO:root:{'address': '0x39ee2c7b3cb80254225884ca001f57118c8f21b6', 'nft': 'The Potatoz'}
+INFO:root:{'address': '0xbc8af167ffaa6b780aaeb522ccabd64c5933bf02', 'nft': 'Derage'}
+INFO:root:{'address': '0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d', 'nft': 'CryptoPunks V1 (wrapped)'}
+INFO:root:{'address': '0x08ba8cbbefa64aaf9df25e57fe3f15ecc277af74', 'nft': 'LaserCat NFT'}
+INFO:root:{'address': '0x59325733eb952a92e069c87f0a6168b29e80627f', 'nft': 'Mocaverse'}
+INFO:root:{'address': '0xa3aee8bce55beea1951ef834b99f3ac60d1abeeb', 'nft': 'VeeFriends'}
+INFO:root:{'address': '0x5946aeaab44e65eb370ffaa6a7ef2218cff9b47d', 'nft': 'Creepz by OVERLORD'}
+INFO:root:{'address': '0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258', 'nft': 'Otherdeed for Otherside'}
+INFO:root:{'address': '0x8bc9224253e37cd221c7f510acc42cb6e734db57', 'nft': 'HasbullaNFT'}
+INFO:root:{'address': '0x23581767a106ae21c074b2276d25e5c3e136a68b', 'nft': 'Moonbirds'}
+INFO:root:{'address': '0x32bb5a147b5371fd901aa4a72b7f82c58a87e36d', 'nft': 'Bit Bears by Berachain'}
+INFO:root:{'address': '0xccc441ac31f02cd96c153db6fd5fe0a2f4e6a68d', 'nft': 'FLUF World'}
+INFO:root:{'address': '0xbff94df17c24c7911f1da4902117363a67633831', 'nft': 'GOOFIES'}
+INFO:root:{'address': '0x3aa510dc091980e3fddede457e7597bfd5d4d64c', 'nft': 'KManuS88'}
+INFO:root:{'address': '0x3bf2922f4520a8ba0c2efc3d2a1539678dad5e9d', 'nft': '0N1 Force'}
+INFO:root:{'address': '0xe51aac67b09eaed6d3d43e794d6bae679cbe09d8', 'nft': 'FLUF World: Burrows'}
+INFO:root:{'address': '0x4507d017ffc59808476b0adb349335742939a51a', 'nft': 'Auntieverse by Niceaunties'}
+INFO:root:{'address': '0xd774557b647330c91bf44cfeab205095f7e6c367', 'nft': 'Nakamigos'}
+INFO:root:{'address': '0x0c2e57efddba8c768147d1fdf9176a0a6ebd5d83', 'nft': 'Kaiju Kingz'}
+INFO:root:{'address': '0x716f29b8972d551294d9e02b3eb0fc1107fbf4aa', 'nft': 'IO: Imaginary Ones'}
+INFO:root:{'address': '0xba30e5f9bb24caa003e9f2f0497ad287fdf95623', 'nft': 'Bored Ape Kennel Club'}
+INFO:root:{'address': '0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85', 'nft': 'ENS: Ethereum Name Service'}
+INFO:root:{'address': '0x1a92f7381b9f03921564a437210bb9396471050c', 'nft': 'Cool Cats NFT'}
+INFO:root:{'address': '0x521f9c7505005cfa19a8e5786a9c3c9c9f5e6f42', 'nft': 'Forgotten Runes Wizards Cult'}
+INFO:root:{'address': '0xf4ecc1c74d120649f6598c7a217abaffdf76cd4f', 'nft': 'Age of Dino - Dinosty'}
+INFO:root:{'address': '0x28ce223853d123b52c74439b10b43366d73fd3b5', 'nft': 'TGLP Genesis'}
+INFO:root:{'address': '0x9632438acc88bfcc8780bd114d0d1a2e2f4030e1', 'nft': 'GoPlus EnergyCard'}
+INFO:root:{'address': '0xe6313d1776e4043d906d5b7221be70cf470f5e87', 'nft': 'OnChainShiba'}
+INFO:root:{'address': '0x790b2cf29ed4f310bf7641f013c65d4560d28371', 'nft': 'Otherdeed Expanded'}
+INFO:root:{'address': '0x79fcdef22feed20eddacbb2587640e45491b757f', 'nft': 'mfers'}
+INFO:root:{'address': '0x8ff1523091c9517bc328223d50b52ef450200339', 'nft': 'Rug Radio - Genesis NFT'}
+INFO:root:{'address': '0x6339e5e072086621540d0362c4e3cea0d643e114', 'nft': 'Opepen Edition'}
+INFO:root:{'address': '0x761c54a53d273ebfd087bd6476e32814caed49db', 'nft': 'SOMO Monoliths'}
+INFO:root:{'address': '0x4a537f61ef574153664c0dbc8c8f4b900cacbe5d', 'nft': 'Mavia Land'}
+INFO:root:{'address': '0x6ca10bc06de5af062cfd1dedde85b46ef43ec8d3', 'nft': 'MetaZellys ETH'}
+INFO:root:{'address': '0x17ed38f5f519c6ed563be6486e629041bed3dfbc', 'nft': 'ChronoForge'}
+INFO:root:{'address': '0x1d20a51f088492a0f1c57f047a9e30c9ab5c07ea', 'nft': 'Wassies by Wassies'}
+INFO:root:{'address': '0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7', 'nft': 'Meebits'}
+INFO:root:{'address': '0x2ec3e9aa4fa3289685c8ea3b73264f991845bf02', 'nft': 'COCO'}
+INFO:root:{'address': '0xda6558fa1c2452938168ef79dfd29c45aba8a32b', 'nft': 'Sam Spratt - LUCI: Chapter 5 - The Monument Game'}
+INFO:root:{'address': '0x44acfa1395e583b9fdc88137b7a03a8e173788b3', 'nft': 'Gonesis Ring'}
+INFO:root:{'address': '0x57a204aa1042f6e66dd7730813f4024114d74f37', 'nft': 'CyberKongz'}
+INFO:root:{'address': '0x99a9b7c1116f9ceeb1652de04d5969cce509b069', 'nft': 'Art Blocks'}
+INFO:root:{'address': '0xd1258db6ac08eb0e625b75b371c023da478e94a9', 'nft': 'DigiDaigaku Genesis'}
+INFO:root:{'address': '0xd1169e5349d1cb9941f3dcba135c8a4b9eacfdde', 'nft': 'MAX PAIN AND FRENS BY XCOPY'}
+INFO:root:{'address': '0xa28d6a8eb65a41f3958f1de62cbfca20b817e66a', 'nft': 'Nobody'}
+INFO:root:{'address': '0xb6a37b5d14d502c3ab0ae6f3a0e058bc9517786e', 'nft': 'Azuki Elementals'}
+INFO:root:{'address': '0x8c186802b1992f7650ac865d4ca94d55ff3c0d17', 'nft': 'Ninja Squad Official'}
+INFO:root:{'address': '0xc4973de5ee925b8219f1e74559fb217a8e355ecf', 'nft': 'Azra Games - The Hopeful'}
+INFO:root:{'address': '0x960b7a6bcd451c9968473f7bbfd9be826efd549a', 'nft': 'OnChainMonkey'}
+INFO:root:{'address': '0x342639aa0ab0ab367075c1245847bd8d010b74d9', 'nft': 'No More Liquidity: Genesis Pass'}
+INFO:root:{'address': '0xbabafdd8045740449a42b788a26e9b3a32f88ac1', 'nft': 'Persona'}
+INFO:root:{'address': '0x28a11da34a93712b1fde4ad15da217a3b14d9465', 'nft': 'Wonders of the First: Existence (Collector Booster Boxes)'}
+INFO:root:{'address': '0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0', 'nft': 'Crypto Citizens'}
+INFO:root:{'address': '0x000000000002c0b7dfdf4e6a7d53aeb8889b80bf', 'nft': 'Xtremeverse'}
+INFO:root:{'address': '0x45882f9bc325e14fbb298a1df930c43a874b83ae', 'nft': 'NextGen 6529'}
+INFO:root:{'address': '0x316b0ae962295acfbce34461ddd0b8105eb215d4', 'nft': 'OG404'}
+INFO:root:{'address': '0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949', 'nft': 'BEANZ Official'}
+INFO:root:{'address': '0xdfde78d2baec499fe18f2be74b6c287eed9511d7', 'nft': 'BrainDrops'}
+INFO:root:{'address': '0xe47e5dcde8e14e874d2711e786bb34ae6980bef8', 'nft': 'Meta Monopoly'}
+INFO:root:{'address': '0xffc1131dda0299b804c97c436bc8cfea019e00a0', 'nft': 'Looki'}
+INFO:root:{'address': '0x8428cbdc4100fc7e1b14c2e4765a9a8133587f28', 'nft': 'Nexus Gaming Lifetime Pass'}
+INFO:root:{'address': '0x97ca7fe0b0288f5eb85f386fed876618fb9b8ab8', 'nft': 'Ether Cards Founder'}
+INFO:root:{'address': '0x062e691c2054de82f28008a8ccc6d7a1c8ce060d', 'nft': 'Pudgy Rods'}
+INFO:root:{'address': '0x05327e6e27f251d2f2cfdbc37b9f289cf9f21529', 'nft': 'Camp Cosmos'}
+INFO:root:{'address': '0x8a8e262861910e8e7bff93b33c33648bd122667a', 'nft': 'CRAZY LUPPY'}
+INFO:root:{'address': '0xd92e44ac213b9ebda0178e1523cc0ce177b7fa96', 'nft': 'BEEPLE: EVERYDAYS - THE 2020 COLLECTION'}
